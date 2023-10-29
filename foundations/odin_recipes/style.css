@@ -1,0 +1,48 @@
+body {
+    font-family: Monaco, 'Courier New', monospace;
+    text-align: center;
+    background-color: rgb(255, 249, 180);
+}
+
+/* recipes styles */
+.recipe-title {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+.recipe-img {
+    border-radius: 4%;
+    border-style: dotted;
+}
+
+.ingredients, .steps {
+    list-style-position: inside;
+    text-align: left;
+}
+
+.return-mainpage {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+/* mainpage styles */
+.mainpage-title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.mainpage-logo {
+    width: 300px;
+    height: auto;
+}
+
+.mainpage-list {
+    font-size: 25px;
+    list-style: none;
+}
